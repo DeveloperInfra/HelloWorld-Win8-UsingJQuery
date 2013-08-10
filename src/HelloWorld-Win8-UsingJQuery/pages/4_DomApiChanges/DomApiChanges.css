@@ -1,0 +1,22 @@
+﻿._4_DomApiChanges section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.tests {
+    display: none;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    ._4_DomApiChanges section[role=main] {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    ._4_DomApiChanges section[role=main] {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}
